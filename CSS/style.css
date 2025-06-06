@@ -416,6 +416,9 @@ hr {
   flex-direction: column;
   gap: 30px;
 }
+#section5 .containerImages img {
+  width: 300px;
+}
 
 #section6 {
   display: flex;
